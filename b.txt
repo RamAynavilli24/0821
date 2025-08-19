@@ -1,1 +1,2 @@
 This is sample text file2 to test. Nothinhg Fancy
+This file duplicated with other name so changed the original content.
